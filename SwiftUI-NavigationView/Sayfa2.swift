@@ -28,14 +28,13 @@ struct Sayfa2: View {
                     if(self.gosterimDurumu){
                         
                         self.goster = true
-                        self.anaSayfaAktifMi = true
                         
                     }else{
                         self.gosterMesaj = true
                     }
                     
                 }){
-                    Text("Sayfa 3 ye git")
+                    Text("Sayfa 3 e git")
                         .foregroundColor(Color.yellow)
                         .bold()
                         .font(.system(size: 20))
