@@ -13,11 +13,11 @@ struct Sayfa1: View {
     @State var aktifMi : Bool = false
     
     init() {
-         UINavigationBar
+        UINavigationBar
             .appearance()
             .largeTitleTextAttributes = [
-                   .foregroundColor: UIColor.systemYellow,
-                   .font : UIFont(name:"Helvetica Neue", size: 22)!]
+                .foregroundColor: UIColor.systemYellow,
+                .font : UIFont(name:"Helvetica Neue", size: 22)!]
     }
     
     
@@ -35,7 +35,7 @@ struct Sayfa1: View {
                         .font(.system(size: 20))
                     
                 }
-                /*Navigation Link Sonu*/
+                    /*Navigation Link Sonu*/
                     .accentColor( .yellow)
                 
                 
@@ -43,10 +43,44 @@ struct Sayfa1: View {
                 /*VStack Sonu*/
                 .background(Image("BackgroundImage")
                     .aspectRatio(contentMode: .fill))
-
+                
+                .navigationBarItems(leading:
+                    
+                    Button(action: {
+                        UIApplication.shared.open(URL(string: "https://www.google.com")!)
+                    }) {
+                        Text("Google")
+                            .font(.custom("SanFranciscoText-Light", size: 15))
+                            .bold()
+                            .foregroundColor(.yellow)
+                    },
+                                    
+                                    trailing: Button(action: {
+                                        self.aktifMi = true
+                                    }) {
+                                        
+                                        Image(systemName: "star.fill")
+                                            .imageScale(.large)
+                                        /*
+                                        Image(systemName: "book.circle")
+                                        .imageScale(.large)
+                                        */
+                                        
+                                        /*
+                                        Image(systemName: "person")
+                                        .imageScale(.large)
+                                        */
+                                        
+                                        /*
+                                        Text("Sayfa 2")
+                                            .font(.custom("SanFranciscoText-Light", size: 15))
+                                            .bold()
+                                            .foregroundColor(.yellow)
+                                        */
+                })
         }
-        /*Navigation View Sonu*/
-        .accentColor( .yellow)
+            /*Navigation View Sonu*/
+            .accentColor( .yellow)
         
     }
 }

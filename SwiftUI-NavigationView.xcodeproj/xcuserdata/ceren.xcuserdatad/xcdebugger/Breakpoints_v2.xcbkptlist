@@ -8,7 +8,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "988A037D-D44C-46E3-B2F7-E026984FDBF0"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SwiftUI-NavigationView/Sayfa1.swift"
@@ -20,11 +20,11 @@
             landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "988A037D-D44C-46E3-B2F7-E026984FDBF0 - 6d3b9c390d44c70d"
+                  uuid = "988A037D-D44C-46E3-B2F7-E026984FDBF0 - 3bf13f8adf272347"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.accentColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in SwiftUI_NavigationView.Sayfa1.body.getter : some"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.accentColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A, B where A1: SwiftUI.View, B1: SwiftUI.View&gt;(leading: A1, trailing: B1) -&gt; some&gt;&gt;.0 in SwiftUI_NavigationView.Sayfa1.body.getter : some"
                   moduleName = "SwiftUI-NavigationView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/ceren/Desktop/Desktop/Blog/SwiftUI-NavigationView/SwiftUI-NavigationView/Sayfa1.swift"
@@ -35,11 +35,11 @@
                   offsetFromSymbolStart = "114">
                </Location>
                <Location
-                  uuid = "988A037D-D44C-46E3-B2F7-E026984FDBF0 - 833a28a12a333137"
+                  uuid = "988A037D-D44C-46E3-B2F7-E026984FDBF0 - 5cb3ad77a046e15f"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; SwiftUI.Text in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.accentColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in SwiftUI_NavigationView.Sayfa1.body.getter : some"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Text in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.accentColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A, B where A1: SwiftUI.View, B1: SwiftUI.View&gt;(leading: A1, trailing: B1) -&gt; some&gt;&gt;.0 in SwiftUI_NavigationView.Sayfa1.body.getter : some"
                   moduleName = "SwiftUI-NavigationView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/ceren/Desktop/Desktop/Blog/SwiftUI-NavigationView/SwiftUI-NavigationView/Sayfa1.swift"
