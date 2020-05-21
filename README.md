@@ -1,18 +1,21 @@
 # SwiftUI-NavigationView
 
-Teknik Özellikler: SwiftUI, Swift 5, XCode 11.4
+## Teknik Özellikler ##
 
-Navigatin View kullanımında ana sayfaya dönme işlemleri geliştirildi.
+SwiftUI, Swift 5, XCode 11.4
 
-Medium Makalesi: https://medium.com/me/stats/post/4ab009a39677
+
+> Navigatin View kullanımında ana sayfaya dönme işlemleri geliştirildi.
+
+**Medium Makalesi**: https://medium.com/me/stats/post/4ab009a39677
 
 ![Ekran Görüntüsü](https://github.com/cmlcrn17/SwiftUI-NavigationView/blob/master/SwiftUI-NavigationView.gif)
 
 
 
 
-Navigation Bar öğesi eklendi.
+> Navigation Bar öğesi eklendi.
 
-Medium Makalesi: https://medium.com/@cmlcrn17/swiftui-navigation-bar-items-eklemek-1ed31ef49296
+**Medium Makalesi**: https://medium.com/@cmlcrn17/swiftui-navigation-bar-items-eklemek-1ed31ef49296
 
 ![Ekran Görüntüsü](https://github.com/cmlcrn17/SwiftUI-NavigationView/blob/master/SwiftUI-NavBarItems.gif)
