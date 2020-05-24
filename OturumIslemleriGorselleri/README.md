@@ -14,6 +14,9 @@
 
 3. Görüntülemek istediğiniz senaryoya ait kod bloğunun açıklama satırı işaretlerini kaldırın. -> "/* */" 
 
+4. Kullanıcı Adı: Cmlcrn17, Parola: 1234
+
+
 <br />
 
 <br />
