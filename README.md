@@ -2,7 +2,11 @@
 
 ## Teknik Özellikler ##
 
-SwiftUI, Swift 5, XCode 11.4
+SwiftUI, Swift 5, XCode 11.4 
+
+<br />
+
+<br />
 
 
 > Navigatin View kullanımında ana sayfaya dönme işlemleri geliştirildi.
@@ -11,6 +15,9 @@ SwiftUI, Swift 5, XCode 11.4
 
 ![Ekran Görüntüsü](https://github.com/cmlcrn17/SwiftUI-NavigationView/blob/master/SwiftUI-NavigationView.gif)
 
+<br />
+
+<br />
 
 
 
@@ -20,7 +27,9 @@ SwiftUI, Swift 5, XCode 11.4
 
 ![Ekran Görüntüsü](https://github.com/cmlcrn17/SwiftUI-NavigationView/blob/master/SwiftUI-NavBarItems.gif)
 
+<br />
 
+<br />
 
 
 > Oturum İşlemleri senaryosuyla ilgili geliştirme yapıldı.
@@ -29,4 +38,6 @@ SwiftUI, Swift 5, XCode 11.4
 
 [Oturum İşlemleri Kullanımı Readme Dokümanı](https://github.com/cmlcrn17/SwiftUI-NavigationView/blob/master/OturumIslemleriGorselleri/README.md)
 
+<br />
 
+<br />
