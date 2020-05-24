@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		14CBC04E247AE00300B7AC44 /* Giris.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CBC04D247AE00300B7AC44 /* Giris.swift */; };
+		14CBC050247AE00A00B7AC44 /* OturumAc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CBC04F247AE00A00B7AC44 /* OturumAc.swift */; };
+		14CBC052247AE01300B7AC44 /* Anasayfa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CBC051247AE01300B7AC44 /* Anasayfa.swift */; };
+		14CBC056247AE08E00B7AC44 /* Giris1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CBC055247AE08E00B7AC44 /* Giris1.swift */; };
+		14CBC058247AE09500B7AC44 /* OturumAc1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CBC057247AE09500B7AC44 /* OturumAc1.swift */; };
+		14CBC05A247AE09D00B7AC44 /* Anasayfa1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CBC059247AE09D00B7AC44 /* Anasayfa1.swift */; };
+		14CBC05C247AE8BF00B7AC44 /* Detay1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CBC05B247AE8BF00B7AC44 /* Detay1.swift */; };
+		14CBC05E247AF0AC00B7AC44 /* Detay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CBC05D247AF0AC00B7AC44 /* Detay.swift */; };
 		14FC7A6F247005EC00A1931F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14FC7A6E247005EC00A1931F /* AppDelegate.swift */; };
 		14FC7A71247005EC00A1931F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14FC7A70247005EC00A1931F /* SceneDelegate.swift */; };
 		14FC7A73247005EC00A1931F /* Sayfa1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14FC7A72247005EC00A1931F /* Sayfa1.swift */; };
@@ -18,6 +26,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		14CBC04D247AE00300B7AC44 /* Giris.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Giris.swift; sourceTree = "<group>"; };
+		14CBC04F247AE00A00B7AC44 /* OturumAc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OturumAc.swift; sourceTree = "<group>"; };
+		14CBC051247AE01300B7AC44 /* Anasayfa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anasayfa.swift; sourceTree = "<group>"; };
+		14CBC055247AE08E00B7AC44 /* Giris1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Giris1.swift; sourceTree = "<group>"; };
+		14CBC057247AE09500B7AC44 /* OturumAc1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OturumAc1.swift; sourceTree = "<group>"; };
+		14CBC059247AE09D00B7AC44 /* Anasayfa1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anasayfa1.swift; sourceTree = "<group>"; };
+		14CBC05B247AE8BF00B7AC44 /* Detay1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detay1.swift; sourceTree = "<group>"; };
+		14CBC05D247AF0AC00B7AC44 /* Detay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detay.swift; sourceTree = "<group>"; };
 		14FC7A6B247005EC00A1931F /* SwiftUI-NavigationView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-NavigationView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		14FC7A6E247005EC00A1931F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		14FC7A70247005EC00A1931F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -41,6 +57,47 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		14CBC047247ADFB200B7AC44 /* HataliKullanimOturumIslemleri */ = {
+			isa = PBXGroup;
+			children = (
+				14CBC04D247AE00300B7AC44 /* Giris.swift */,
+				14CBC04F247AE00A00B7AC44 /* OturumAc.swift */,
+				14CBC051247AE01300B7AC44 /* Anasayfa.swift */,
+				14CBC05D247AF0AC00B7AC44 /* Detay.swift */,
+			);
+			path = HataliKullanimOturumIslemleri;
+			sourceTree = "<group>";
+		};
+		14CBC048247ADFD000B7AC44 /* OturumIslemleri */ = {
+			isa = PBXGroup;
+			children = (
+				14CBC054247AE04200B7AC44 /* DogruKullanimOturumIslemleri */,
+				14CBC047247ADFB200B7AC44 /* HataliKullanimOturumIslemleri */,
+			);
+			path = OturumIslemleri;
+			sourceTree = "<group>";
+		};
+		14CBC053247AE03400B7AC44 /* NavigationView */ = {
+			isa = PBXGroup;
+			children = (
+				14FC7A72247005EC00A1931F /* Sayfa1.swift */,
+				14FC7A8624700BCC00A1931F /* Sayfa2.swift */,
+				14FC7A842470081F00A1931F /* Sayfa3.swift */,
+			);
+			path = NavigationView;
+			sourceTree = "<group>";
+		};
+		14CBC054247AE04200B7AC44 /* DogruKullanimOturumIslemleri */ = {
+			isa = PBXGroup;
+			children = (
+				14CBC055247AE08E00B7AC44 /* Giris1.swift */,
+				14CBC057247AE09500B7AC44 /* OturumAc1.swift */,
+				14CBC059247AE09D00B7AC44 /* Anasayfa1.swift */,
+				14CBC05B247AE8BF00B7AC44 /* Detay1.swift */,
+			);
+			path = DogruKullanimOturumIslemleri;
+			sourceTree = "<group>";
+		};
 		14FC7A62247005EC00A1931F = {
 			isa = PBXGroup;
 			children = (
@@ -60,11 +117,10 @@
 		14FC7A6D247005EC00A1931F /* SwiftUI-NavigationView */ = {
 			isa = PBXGroup;
 			children = (
+				14CBC053247AE03400B7AC44 /* NavigationView */,
+				14CBC048247ADFD000B7AC44 /* OturumIslemleri */,
 				14FC7A6E247005EC00A1931F /* AppDelegate.swift */,
 				14FC7A70247005EC00A1931F /* SceneDelegate.swift */,
-				14FC7A72247005EC00A1931F /* Sayfa1.swift */,
-				14FC7A8624700BCC00A1931F /* Sayfa2.swift */,
-				14FC7A842470081F00A1931F /* Sayfa3.swift */,
 				14FC7A74247005EE00A1931F /* Assets.xcassets */,
 				14FC7A79247005EF00A1931F /* LaunchScreen.storyboard */,
 				14FC7A7C247005EF00A1931F /* Info.plist */,
@@ -152,10 +208,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14CBC05A247AE09D00B7AC44 /* Anasayfa1.swift in Sources */,
+				14CBC04E247AE00300B7AC44 /* Giris.swift in Sources */,
+				14CBC058247AE09500B7AC44 /* OturumAc1.swift in Sources */,
 				14FC7A6F247005EC00A1931F /* AppDelegate.swift in Sources */,
+				14CBC050247AE00A00B7AC44 /* OturumAc.swift in Sources */,
+				14CBC05C247AE8BF00B7AC44 /* Detay1.swift in Sources */,
 				14FC7A852470081F00A1931F /* Sayfa3.swift in Sources */,
 				14FC7A8724700BCC00A1931F /* Sayfa2.swift in Sources */,
+				14CBC052247AE01300B7AC44 /* Anasayfa.swift in Sources */,
+				14CBC056247AE08E00B7AC44 /* Giris1.swift in Sources */,
 				14FC7A71247005EC00A1931F /* SceneDelegate.swift in Sources */,
+				14CBC05E247AF0AC00B7AC44 /* Detay.swift in Sources */,
 				14FC7A73247005EC00A1931F /* Sayfa1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
