@@ -1,6 +1,6 @@
 ## Oturum İşlemleri ##
 
-**Medium Makalesi**: 
+[Medium Makalesi](https://medium.com/@cmlcrn17/swiftui-navigation-view-%C3%A7oklama-problemi-%C3%A7%C3%B6z%C3%BCm%C3%BC-mvc-b5f50e9f9b85)
 
 <br />
 
