@@ -19,3 +19,14 @@ SwiftUI, Swift 5, XCode 11.4
 **Medium Makalesi**: https://medium.com/@cmlcrn17/swiftui-navigation-bar-items-eklemek-1ed31ef49296
 
 ![Ekran Görüntüsü](https://github.com/cmlcrn17/SwiftUI-NavigationView/blob/master/SwiftUI-NavBarItems.gif)
+
+
+
+
+> Oturum İşlemleri senaryosuyla ilgili geliştirme yapıldı.
+
+**Medium Makalesi**: 
+
+![Oturum İşlemleri Kullanımı Readme Dokümanı](https://github.com/cmlcrn17/SwiftUI-NavigationView/blob/master/OturumIslemleriGorselleri/README.md)
+
+
