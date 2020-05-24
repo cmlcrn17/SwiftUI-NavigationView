@@ -27,6 +27,6 @@ SwiftUI, Swift 5, XCode 11.4
 
 **Medium Makalesi**: 
 
-![Oturum İşlemleri Kullanımı Readme Dokümanı](https://github.com/cmlcrn17/SwiftUI-NavigationView/blob/master/OturumIslemleriGorselleri/README.md)
+[Oturum İşlemleri Kullanımı Readme Dokümanı](https://github.com/cmlcrn17/SwiftUI-NavigationView/blob/master/OturumIslemleriGorselleri/README.md)
 
 
